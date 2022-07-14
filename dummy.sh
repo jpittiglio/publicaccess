@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello World" > /tmp/hw.txt
+echo "Hello World" >> /tmp/hw.txt
